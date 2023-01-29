@@ -6,14 +6,15 @@
 ## Contents
 
 - [Game Development](#game-development)
-
+- [Logging](#logging)
 
 ## Game Development
 
-About this section. Optional. Keep this short and focus on the list.
+- [Raylib-C3](https://github.com/Its-Kenta/Raylib-C3) - Raylib binding 
 
-- [Raylib-C3](https://github.com/Its-Kenta/Raylib-C3) - Opinionated Raylib binding 
+## Logging
 
+- [log.c3](https://github.com/Its-Kenta/logc3) - A simple logging library for the C3 Programming Language
 
 ## Contribute
 

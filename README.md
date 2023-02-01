@@ -15,7 +15,7 @@
 
 ## Logging
 
-- [log.c3](https://github.com/Its-Kenta/log.c3) - A simple logging library for the C3 Programming Language
+- [Log.c3](https://github.com/Its-Kenta/Log.c3) - A simple logging library for the C3 Programming Language
 
 ## Contribute
 

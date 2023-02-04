@@ -10,7 +10,7 @@
 
 ## Game Development
 
-- [Raylib-C3](https://github.com/Its-Kenta/Raylib-C3) - Raylib binding 
+- [Raylib.c3](https://github.com/Its-Kenta/Raylib-C3) - Raylib binding 
 - [Gamercade.c3](https://github.com/Its-Kenta/Gamercade.c3) - Binding/Project template for the Gamercade Fantasy Console
 
 ## Logging

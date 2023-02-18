@@ -7,6 +7,8 @@
 
 - [Game Development](#game-development)
 - [Logging](#logging)
+- [GUI](#gui)
+- [Related Websites](#related-web-sites)
 
 ## Game Development
 
@@ -16,6 +18,16 @@
 ## Logging
 
 - [Log.c3](https://github.com/Its-Kenta/Log.c3) - A simple logging library for the C3 Programming Language
+
+## GUI
+
+- [Cforms](https://github.com/kcvinker/cforms) - A simple GUI library for C3 programming language, based on Win32 API
+
+
+## Related Web Sites
+
+- [Learn C3](https://learn-c3.org/)
+
 
 ## Contribute
 

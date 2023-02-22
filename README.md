@@ -14,6 +14,7 @@
 
 - [Raylib.c3](https://github.com/Its-Kenta/Raylib-C3) - Raylib binding 
 - [Gamercade.c3](https://github.com/Its-Kenta/Gamercade.c3) - Binding/Project template for the Gamercade Fantasy Console
+- [OpenGl examples](https://github.com/tonis2/opengl-examples) Examples of how to use OpenGL with C3
 
 ## Logging
 

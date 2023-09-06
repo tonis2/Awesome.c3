@@ -30,6 +30,9 @@
 ## Tools
 - [C3 Language IntelliJ Plugin](https://plugins.jetbrains.com/plugin/21619-c3-language) - Official C3 Language plugin for IntelliJ IDEs
 
+## Network
+- [Naett.c3](https://github.com/Its-Kenta/Naett.c3) - A tiny binding for a tiny HTTP/HTTPs client
+
 ## Related Web Sites
 
 - [Learn C3](https://learn-c3.org/)

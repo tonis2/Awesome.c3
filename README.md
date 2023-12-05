@@ -17,6 +17,7 @@
 - [Gamercade.c3](https://github.com/Its-Kenta/Gamercade.c3) - Binding/Project template for the Gamercade Fantasy Console
 - [OpenGl examples](https://github.com/tonis2/opengl-examples) - Examples of how to use OpenGL with C3
 - [Vulkan](https://github.com/tonis2/Vulkan.c3) - Vulkan bindings
+- [Gltf](https://github.com/tonis2/gltf.c3) - Gltf file format loader
 - [Tigr](https://github.com/c3lang/vendor/tree/main/libraries/tigr.c3l) - Tigr binding for C3
 
 ## Logging

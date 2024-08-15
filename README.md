@@ -34,6 +34,7 @@
 
 ## Network
 - [Naett.c3](https://github.com/Its-Kenta/Naett.c3) - A tiny binding for a tiny HTTP/HTTPs client
+- [c3-api](https://github.com/velikoss/c3-api) - Simple C3 HTTP Server with routing
 
 ## Related Web Sites
 

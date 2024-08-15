@@ -30,7 +30,7 @@
 
 ## Tools
 - [C3 Language IntelliJ Plugin](https://plugins.jetbrains.com/plugin/21619-c3-language) - Official C3 Language plugin for IntelliJ IDEs
-- [c3-lsp](https://github.com/pherrymason/c3-lsp)) - Language server for C3 language
+- [c3-lsp](https://github.com/pherrymason/c3-lsp) - Language server for C3 language
 
 ## Network
 - [Naett.c3](https://github.com/Its-Kenta/Naett.c3) - A tiny binding for a tiny HTTP/HTTPs client

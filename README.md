@@ -38,6 +38,10 @@
 
 - [Learn C3](https://learn-c3.org/)
 
+## Encoding
+
+- [XML](https://github.com/tonis2/xml.c3)
+
 
 ## Contribute
 

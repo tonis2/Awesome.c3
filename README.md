@@ -28,8 +28,8 @@
 - [c3-lsp](https://github.com/pherrymason/c3-lsp) - Language server for C3 language
 
 ## Network
-- [Naett.c3](https://github.com/Its-Kenta/Naett.c3) - A tiny binding for a tiny HTTP/HTTPs client
 - [c3-api](https://github.com/velikoss/c3-api) - Simple C3 HTTP Server with routing
+- [http](https://github.com/tclesius/http.c3) - HTTP Client Library
 
 ## Media
 - [qoi-c3](https://github.com/Hema2-official/qoi-c3) - A C3 implementation of the “Quite OK Image Format”

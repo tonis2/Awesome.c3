@@ -31,6 +31,8 @@
 - [c3-api](https://github.com/velikoss/c3-api) - Simple C3 HTTP Server with routing
 - [http](https://github.com/tclesius/http.c3) - HTTP Client Library
 
+## Encryption
+- [Aes](https://github.com/konimarti/aes.c3l) - Implementation of the AES ECB, CTR and CBC encryption algorithms for C3
 
 ## Related Web Sites
 

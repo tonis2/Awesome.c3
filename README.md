@@ -24,7 +24,7 @@
 
 ## Databases
 
-- [sql_c3](https://github.com/louis77/sql_c3) - A generic SQL interface and a PostgreSQL client based on libpq
+- [sql_c3](https://github.com/louis77/sql_c3) - C3 SQL package with support and bindings for PostgreSQL, MySQL, SQLite
 
 ## Tools
 - [C3 Language IntelliJ Plugin](https://plugins.jetbrains.com/plugin/21619-c3-language) - Official C3 Language plugin for IntelliJ IDEs

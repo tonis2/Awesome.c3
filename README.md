@@ -8,6 +8,7 @@
 - [Game Development](#game-development)
 - [Logging](#logging)
 - [GUI](#gui)
+- [Databases](#databases)
 - [Tools](#tools)
 - [Related Websites](#related-web-sites)
 
@@ -17,10 +18,13 @@
 - [Gltf](https://github.com/tonis2/gltf.c3) - Gltf file format loader
 - [Tigr](https://github.com/c3lang/vendor/tree/main/libraries/tigr.c3l) - Tigr binding for C3
 
-
 ## GUI
 
 - [Cforms](https://github.com/kcvinker/cforms) - A simple GUI library for C3 programming language, based on Win32 API
+
+## Databases
+
+- [sql_c3](https://github.com/louis77/sql_c3) - C3 SQL package with support and bindings for PostgreSQL, MySQL, SQLite
 
 ## Tools
 - [C3 Language IntelliJ Plugin](https://plugins.jetbrains.com/plugin/21619-c3-language) - Official C3 Language plugin for IntelliJ IDEs
@@ -32,6 +36,7 @@
 - [c3-api](https://github.com/velikoss/c3-api) - Simple C3 HTTP Server with routing
 - [http](https://github.com/tclesius/http.c3) - HTTP Client Library
 - [c3ws](https://github.com/tsoding/c3ws) - WebSocket library
+
 ## Encryption
 - [Aes](https://github.com/konimarti/aes.c3l) - Implementation of the AES ECB, CTR and CBC encryption algorithms for C3
 

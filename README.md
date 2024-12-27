@@ -26,6 +26,7 @@
 - [C3 Language IntelliJ Plugin](https://plugins.jetbrains.com/plugin/21619-c3-language) - Official C3 Language plugin for IntelliJ IDEs
 - [c3-lsp](https://github.com/pherrymason/c3-lsp) - Language server for C3 language
 - [nanoid](https://github.com/fernandolguevara/nanoid.c3l) - String ID generator
+- [url_c3](https://github.com/louis77/url_c3) - Parse and create URLs
 
 ## Network
 - [c3-api](https://github.com/velikoss/c3-api) - Simple C3 HTTP Server with routing

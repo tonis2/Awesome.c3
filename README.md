@@ -46,7 +46,7 @@
 
 ## Encoding
 
-- [XML](https://github.com/tonis2/xml.c3)
+- [XML](https://github.com/tonis2/xml.c3) - Library for parsing XML file format
 - [xlsx-writer](https://github.com/radekm/xlsx-writer) - A library for streaming XLSX (Excel) files offering just basic cell types and styles
 
 ## Contribute

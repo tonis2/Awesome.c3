@@ -31,6 +31,7 @@
 - [c3-lsp](https://github.com/pherrymason/c3-lsp) - Language server for C3 language
 - [nanoid](https://github.com/fernandolguevara/nanoid.c3l) - String ID generator
 - [url_c3](https://github.com/louis77/url_c3) - Parse and create URLs
+- [C3 futures](https://github.com/tsoding/c3fut) - Futures for C3
 
 ## Network
 - [c3-api](https://github.com/velikoss/c3-api) - Simple C3 HTTP Server with routing

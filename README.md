@@ -21,6 +21,7 @@
 ## GUI
 
 - [Cforms](https://github.com/kcvinker/cforms) - A simple GUI library for C3 programming language, based on Win32 API
+- [c3tray](https://github.com/rtc11/c3tray) - A C3 implementation of a system tray for macOS, using objc
 
 ## Databases
 

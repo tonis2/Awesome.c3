@@ -42,6 +42,9 @@
 ## Encryption
 - [Aes](https://github.com/konimarti/aes.c3l) - Implementation of the AES ECB, CTR and CBC encryption algorithms for C3
 
+## Compression
+- [inflate](https://github.com/konimarti/tinf.c3l) - Implementation of the decompression algorithm for the deflate compressed data format (called 'inflate').
+
 ## Related Web Sites
 
 - [Learn C3](https://learn-c3.org/)

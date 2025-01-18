@@ -54,7 +54,6 @@
 - [XML](https://github.com/tonis2/xml.c3) - Library for parsing XML file format
 - [xlsx-writer](https://github.com/radekm/xlsx-writer) - A library for streaming XLSX (Excel) files offering just basic cell types and styles
 - [TOML](https://github.com/konimarti/toml.c3l) - Library for parsing TOML file format with reflection
-- [tinf](https://github.com/konimarti/tinf.c3l) - Inflate library (inflate, gzip, zlib)
 
 ## Contribute
 

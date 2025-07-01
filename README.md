@@ -21,7 +21,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 ## Game Development
 - [Vulkan](https://github.com/tonis2/Vulkan.c3) - Vulkan bindings
 - [Gltf](https://github.com/tonis2/gltf.c3) - Gltf file format loader
-- [Tigr](https://github.com/c3lang/vendor/tree/main/libraries/tigr.c3l) - Tigr binding for C3
+- [Collision detection](https://github.com/tonis2/collision.c3) - Gltf file format loader
 
 ## GUI
 - [Cforms](https://github.com/kcvinker/cforms) - A simple GUI library for C3 programming language, based on Win32 API
